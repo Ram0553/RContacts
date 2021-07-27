@@ -1,0 +1,13 @@
+com/example/rcontacts30/BuildConfig.java
+ com.example.rcontacts30.BuildConfig
+com/example/rcontacts30/CustomAdapter.java
+ com.example.rcontacts30.CustomAdapter
+ com.example.rcontacts30.CustomAdapter$ViewHolder
+ com.example.rcontacts30.CustomAdapter$ViewHolder$1
+ com.example.rcontacts30.CustomAdapter$ViewHolder$2
+com/example/rcontacts30/MainActivity2.java
+ com.example.rcontacts30.MainActivity2
+ com.example.rcontacts30.MainActivity2$1
+com/example/rcontacts30/MainActivity.java
+ com.example.rcontacts30.MainActivity
+ com.example.rcontacts30.MainActivity$1

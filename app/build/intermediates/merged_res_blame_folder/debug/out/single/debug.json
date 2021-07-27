@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "C:\\Users\\win10\\AndroidStudioProjects\\RContacts30\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\win10\\AndroidStudioProjects\\RContacts30\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\AndroidStudioProjects\\RContacts30\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\win10\\AndroidStudioProjects\\RContacts30\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\AndroidStudioProjects\\RContacts30\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\win10\\AndroidStudioProjects\\RContacts30\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\AndroidStudioProjects\\RContacts30\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\win10\\AndroidStudioProjects\\RContacts30\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\AndroidStudioProjects\\RContacts30\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\win10\\AndroidStudioProjects\\RContacts30\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\AndroidStudioProjects\\RContacts30\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_pp.png.flat",
+        "source": "C:\\Users\\win10\\AndroidStudioProjects\\RContacts30\\app\\src\\main\\res\\drawable-v24\\pp.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\AndroidStudioProjects\\RContacts30\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\win10\\AndroidStudioProjects\\RContacts30\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\win10\\AndroidStudioProjects\\RContacts30\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\win10\\AndroidStudioProjects\\RContacts30\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\AndroidStudioProjects\\RContacts30\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\win10\\AndroidStudioProjects\\RContacts30\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\AndroidStudioProjects\\RContacts30\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\win10\\AndroidStudioProjects\\RContacts30\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\AndroidStudioProjects\\RContacts30\\app\\build\\intermediates\\res\\merged\\debug\\layout_rc.xml.flat",
+        "source": "C:\\Users\\win10\\AndroidStudioProjects\\RContacts30\\app\\src\\main\\res\\layout\\rc.xml"
+    },
+    {
+        "merged": "C:\\Users\\win10\\AndroidStudioProjects\\RContacts30\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\win10\\AndroidStudioProjects\\RContacts30\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\AndroidStudioProjects\\RContacts30\\app\\build\\intermediates\\res\\merged\\debug\\menu_menu_bar.xml.flat",
+        "source": "C:\\Users\\win10\\AndroidStudioProjects\\RContacts30\\app\\src\\main\\res\\menu\\menu_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\win10\\AndroidStudioProjects\\RContacts30\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\win10\\AndroidStudioProjects\\RContacts30\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\win10\\AndroidStudioProjects\\RContacts30\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main2.xml.flat",
+        "source": "C:\\Users\\win10\\AndroidStudioProjects\\RContacts30\\app\\src\\main\\res\\layout\\activity_main2.xml"
+    }
+]
