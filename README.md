@@ -11,6 +11,8 @@ Link to the RContacts app:-  https://github.com/Ram0553/RContacts/raw/master/app
 
 In app pictures:-
 
+[App_logo](https://user-images.githubusercontent.com/53968496/127199562-5caec990-db2d-4eba-8d06-23109cd2d9e0.png)
+
 [Landing_page](https://user-images.githubusercontent.com/53968496/127190547-dc3fed8e-2c3a-4e17-91f7-0f19b380e6f0.jpg)
 
 [Menubar_items](https://user-images.githubusercontent.com/53968496/127190589-b3c16991-aa73-421e-a31b-3a4869165231.jpg)
